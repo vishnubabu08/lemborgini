@@ -93,8 +93,9 @@ header nav{
      padding: 0;
   }
   .track .trackinfo h2 span{
-    font-size: 26px;
-    font-weight: 500;
+    font-size: 25px;
+    font-weight: 600;
+    
 
   }
   .track .trackinfo{
@@ -302,19 +303,18 @@ h2 span{
 
 
    .fifth-info h2{
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 600;
     margin-top: 40px;
     margin-bottom: 20px;
 
    }
-   .fifth-info h1{
+   
+.fifth-info h1 {
     font-size: 90px;
     font-weight: 800;
-    margin-top: 40px;
-    margin-bottom: 20px;
-
-   }
+    margin-bottom: 25px;
+}
    .fifth img{
     width: 1052.77px;
     
@@ -354,6 +354,7 @@ h2 span{
     margin-top: 20px;
     font-size: 16px;
     font-weight: 300;
+    margin-bottom: 30px;
  }
  .read {
     padding: 15px;
@@ -386,7 +387,7 @@ h2 span{
   }
   .two h3{
     
-    width: 91.36px;
+    width: 164.36px;
     height: 26.67px;
     font-size: 14px;
     font-weight: 500px;
@@ -404,16 +405,56 @@ h2 span{
     font-size: 32px;
     margin-top: 15px;
     margin-bottom: 17.71px;
+    position: relative;
   }
+
+
+
   .sixth-info3{
-    display: block;
+    display: flex;
     margin-top:66px;
+  }
+
+  .sixth-info3 .two2{
+    width: 526.39px;
+    padding-left: 40px;
+  }
+
+  .sixth-info3 img{
+    width: 526.39px;
+    height: 260px;
+  }
+
+  .two2 .read2 {
+    padding: 15px;
+    width: 215px;
+    height: 52px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px solid black;
+    margin-top: 56px;
+    
+  }
+  .read2 a{
+    color: #000000;
+}
+  .sixth-info3 .two2 h2{
+    width: 486.39px;
+    height: 105.59;
+    font-size: 32px;
+    margin-top: 15px;
+    margin-bottom: 17.71px;
+     top: 38px;
+    position: relative;
+  }
+
+  .sixth-info3 .two2 h4{
+    font-size: 18px;
+    font-weight: 400;
   }
   .see{
     height: 215px;
  
- 
-    
   }
   
  .see .read {
